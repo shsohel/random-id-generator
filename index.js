@@ -3,5 +3,5 @@ const randomId = () => {
     return id;
 };
 
-module.export.randomId = randomId;
+module.exports.randomId = randomId;
 
