@@ -7,7 +7,7 @@ npm i easy-random-id
 ```
 import { randomId} from 'easy-random-id';
 const obj ={
-    id: randomId,
+    id: randomId(),
     .........
 };
 
