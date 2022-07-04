@@ -1,6 +1,6 @@
 {
   "name": "easy-random-id",
-  "version": "1.2.1",
+  "version": "1.0.1",
   "description": "This is random Id generator of any object.",
   "main": "index.js",
   "scripts": {
